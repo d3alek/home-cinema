@@ -1,0 +1,1 @@
+echo pause > /home/pi/home-cinema/command.txt

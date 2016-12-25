@@ -1,0 +1,1 @@
+echo play > /home/pi/home-cinema/command.txt
